@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aqueeb Jawed
-- 👀 I’m interested in C/C++, Python Programming
+- 👀 I’m interested in Web Development, Angular, HTML, CSS, JS, TS, C/C++, Python Programming
 - 🌱 I’m currently doing M.Tech from IIIT Bangalore
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Reach me @ email: aqueebj@gmail.com
